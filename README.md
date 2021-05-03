@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JpMza
-- 👀 I’m interested in contibute to a project
+- 👀 I’m interested in contribute to an open project
 - 🌱 I’m currently learning java and javascript
 - 💞️ I’m looking to collaborate on node projects
 - 📫 How to reach me : juanpablo.mza@pm.me
